@@ -1,5 +1,9 @@
-// This Magma code supports the computations in the paper : On elliptic curves with $p$-isogenies over quadratic fields.
+// Magma code to support the computations in the paper On elliptic curves with p-isogenies over quadratic fields by Philippe Michaud-Jacobs.
+// See https://github.com/michaud-jacobs/p-isog-quadratic for all the code files and links to the paper
+
+// The code works on Magma V2.26-10
 // The output is at the end of the file
+
 
 // This code verifies the computations in part of the proof of Theorem 2, part of the proof of Proposition 5.5, and Remark 5.2
 
