@@ -6,7 +6,7 @@ The published version of the paper is available here: https://doi.org/10.4153/S0
 
 The repository contains the following files (more description is contained within each file):
 
-- General_constant_sig_c.m computes bad constant isogeny signature primes for a given class group exponent
-- Non_constant_sig_c.m computes bad non-constant isogeny signature primes for a given quadratic field
-- Small_isog_c.m uses modular curves to check for small degree isogenies
-- Specific_constant_sig.m computes bad constant isogeny signature primes for a given quadratic field
+- General_constant_sig_c.m computes bad constant isogeny signature primes for a given class group exponent,
+- Non_constant_sig_c.m computes bad non-constant isogeny signature primes for a given quadratic field,
+- Small_isog_c.m uses modular curves to check for small degree isogenies,
+- Specific_constant_sig.m computes bad constant isogeny signature primes for a given quadratic field.
